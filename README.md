@@ -1,4 +1,4 @@
-#Simple Postgres Automation Using Docker
+# Simple Postgres Automation Using Docker
 Simple automation for postgresql running in Docker using docker-compose
 
 *Note: This guide will allow you to containerize Postgres; however, you must go into docker's settings and assure proper # cores and memory is allocated as large queries will take a very long time otherwise*
